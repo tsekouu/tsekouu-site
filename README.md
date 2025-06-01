@@ -17,8 +17,6 @@
     header {
       text-align: center;
       margin-bottom: 40px;
-    }
-    header h1 {
       font-size: 3em;
       color: #0070ba;
       margin-bottom: 0;
@@ -168,6 +166,15 @@
     alt="Tsekoubuds Wireless Earbuds"
     class="product-image"
   />
+  <!-- Additional Product Views -->
+  <section class="product-gallery">
+    <h3 style="text-align:center; color:#0070ba;">More Views</h3>
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-bottom: 40px;">
+      <img src="af9467b0-b267-4e01-ae8d-adcd2b6b5ba4.png" alt="Earbuds view 1" style="width: 280px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
+      <img src="1c1b3ad3-364e-427b-ba32-c475f9559edd.png" alt="Earbuds view 2" style="width: 280px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
+      <img src="b38292df-ff24-4d19-a261-c9e6a98b2a53.png" alt="Earbuds view 3" style="width: 280px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
+    </div>
+  </section>
 
   <section class="product-info">
     <p>Experience wireless freedom with high-quality sound and all-day comfort. Perfect for active lifestyles!</p>
